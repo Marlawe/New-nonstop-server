@@ -53,7 +53,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AASIF RULEX HERE</title>
+  <title>ARUSH MUMMY KI CHOD ANKIT DON HERE 💀💯</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -164,7 +164,7 @@ def send_message():
   <div class="confetti"></div>
 
   <footer class="footer">
-    <p>&copy; 2024 99SIF S3RV3R </p>
+    <p>&copy; 2026 ANK1T S3RV3R </p>
   </footer>
 </body>
 </html>
@@ -176,4 +176,5 @@ def stop_sending():
     return 'Message sending stopped.'
 
 if __name__ == '__main__':
+
     app.run(host='0.0.0.0', port=5000)
